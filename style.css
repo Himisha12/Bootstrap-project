@@ -25,7 +25,7 @@ img{
 .inp{
     height: 50px;
     width: 55%;
-    outine: none;
+    outline: none;
     border-radius: 60px;
     box-shadow: -26px -19px 30px -19px rgba(0,0,0,0.45);
     background: radial-gradient(circle, rgba(103,178,241,1) 9%, rgba(150,233,148,1) 61%);
